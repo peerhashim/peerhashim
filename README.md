@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peer Hashim</h1>
 <h3 align="center">Asp.net Developer</h3>
 
-- 📫 How to reach me **peerhashim369@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
